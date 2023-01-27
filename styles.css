@@ -120,6 +120,7 @@ form {
 
 input,
 button {
+    font-family: 'Source Sans Pro', sans-serif;
     width: 100%; 
     border-radius: 5px;   
 }
